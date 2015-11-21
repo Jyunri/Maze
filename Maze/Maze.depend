@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1396718263 source:c:\users\juliana\desktop\codeprojects\maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+	<time.h>
+	"Fila.h"
+
+1396638481 c:\users\juliana\desktop\codeprojects\maze\pilha.h
+	<stdio.h>
+	<stdlib.h>
+
+1396672259 c:\users\juliana\desktop\codeprojects\maze\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1397077788 source:c:\users\juliana\google drive\jimy\unifesp\1s2014\codeprojects\maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+	<time.h>
+	"Fila.h"
+	"Matriz.h"
+	"Labirinto.h"
+
+1399094702 c:\users\juliana\google drive\jimy\unifesp\1s2014\codeprojects\maze\pilha.h
+	<stdio.h>
+	<stdlib.h>
+
+1399096392 c:\users\juliana\google drive\jimy\unifesp\1s2014\codeprojects\maze\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1396993111 c:\users\juliana\google drive\jimy\unifesp\1s2014\codeprojects\maze\matriz.h
+	<stdio.h>
+	<stdlib.h>
+
+1399394973 c:\users\juliana\google drive\jimy\unifesp\1s2014\codeprojects\maze\labirinto.h
+	<stdio.h>
+	<stdlib.h>
+
